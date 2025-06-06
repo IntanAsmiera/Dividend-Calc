@@ -2,7 +2,7 @@
 
 A simple Android mobile application that calculates the total dividend from a unit trust investment.
 
-![Screenshot](Screenshots/HomePage.png)
+[Screenshot](Screenshots/HomePage.png)
 [Screenshot](Screenshots/Calculator.png)
 
 
