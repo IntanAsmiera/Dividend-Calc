@@ -1,5 +1,6 @@
 package com.example.myapplicationasg;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
@@ -22,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
     Button btnCalculate;
     TextView tvMonthlyDividend, tvTotalDividend;
 
+    @SuppressLint("DefaultLocale")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
